@@ -1,1 +1,1 @@
-Tâchons de ne pas tout casser
+À la découverte de Python et des elfes
